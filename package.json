@@ -1,0 +1,30 @@
+{
+    "name": "browser-history",
+    "homepage": "https://github.com/khrome/browser-history",
+    "version": "0.0.1-alpha",
+    "main": "history.js",
+    "description": "A utility for interacting with browser histories and generating new ones.",
+    "keywords": [
+        "history",
+        "browser"
+    ],
+    "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
+    "contributors": [],
+    "bugs": {
+        "url": "https://github.com/khrome/browser-history/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:khrome/browser-history.git"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    },
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
